@@ -1,5 +1,5 @@
 {
-  "name": "levanter",
+  "name": "levant",
   "version": "6.2.1",
   "description": "Levanter — a powerful multi-session WhatsApp bot built on Baileys, with a plugin system, group moderation, media tools, and an API for sending and receiving messages via webhooks.",
   "keywords": [
